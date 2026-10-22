@@ -1,0 +1,1 @@
+import{t as e}from"./index-Dwx5fnLy.js";var t=e();function n(){return(0,t.jsx)(`iframe`,{src:`/stone/index.html`,title:`STONE`,className:`fixed inset-0 h-[100dvh] w-full border-0 bg-[#15130f]`,allow:`fullscreen; pointer-lock`})}export{n as component};
